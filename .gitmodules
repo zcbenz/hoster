@@ -1,0 +1,3 @@
+[submodule "lib/tcp-ping"]
+	path = lib/tcp-ping
+	url = https://github.com/apaszke/tcp-ping
